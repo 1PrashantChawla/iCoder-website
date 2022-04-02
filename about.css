@@ -1,0 +1,15 @@
+.img-about{
+    display: flex;
+    float: right;
+    position: absolute;
+    right: 1em;
+    
+
+}
+.b-radius{
+    border-radius: 20px;
+}
+.belowlinecontainer{
+    margin: 4em 10em;
+
+}
